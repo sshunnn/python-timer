@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
-from Timer.config.styles import Styles
-from Timer.core.timer import TimerCore
+from config.styles import Styles
+from core.timer import TimerCore
 
 class TimerWidget:
     """単一のタイマーウィジェット"""

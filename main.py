@@ -5,7 +5,7 @@ import sys
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 import tkinter as tk
-from Timer.ui.timer_app import TimerApp
+from ui.timer_app import TimerApp
 
 def main():
     root = tk.Tk()
